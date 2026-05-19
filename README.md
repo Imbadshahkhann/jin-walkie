@@ -1,10 +1,21 @@
 # 🚀 Jin Walkie
 
-> Secure futuristic realtime communication network built with Flutter & Firebase.
+<div align="center">
+
+# 🌍 Futuristic Realtime Walkie Talkie App
+
+### Built with Flutter & Firebase
+
+🔥 Realtime Voice Communication  
+🎙️ One-to-One Voice Talk  
+🌐 Global Radio System  
+⚡ Modern Neon UI Experience  
+
+</div>
 
 ---
 
-# 📱 App Preview
+# 📱 App Screenshots
 
 ## 🔐 Login Screen
 
@@ -44,38 +55,46 @@
 
 # ✨ Features
 
-- 🔥 Firebase Authentication
-- 🌍 Global Radio Communication
-- 🎙️ Realtime One-to-One Voice Talk
-- 👥 Friends System
-- 📡 Online/Offline Status
-- ⚡ Beautiful Modern UI
-- 🔐 Secure Communication
-- ☁️ Firebase Realtime Database
-- 👥 Friend Request System
-- ❌ Remove Friend Feature
-- 🌐 Global Voice Channel
-- 📱 Responsive UI Design
+✅ Firebase Authentication  
+✅ Realtime Voice Communication  
+✅ One-to-One Walkie Talkie  
+✅ Global Radio Channel  
+✅ Friend Request System  
+✅ Online / Offline Status  
+✅ Beautiful Futuristic UI  
+✅ Secure Firebase Backend  
+✅ Smooth Realtime Experience  
 
 ---
 
 # 🛠️ Tech Stack
 
 - Flutter
-- Firebase
 - Dart
 - Firebase Authentication
 - Firebase Realtime Database
-- Firebase Firestore
-- Provider State Management
+- Cloud Firestore
+- GitHub
 
 ---
 
-# 📂 Project Structure
+# 🧠 About The Project
+
+Jin Walkie is a futuristic realtime communication application inspired by walkie-talkie systems.  
+The app allows users to communicate instantly using realtime voice technology with a modern cyberpunk-style interface.
+
+This project includes:
+- One-to-One Voice Communication
+- Global Radio System
+- Friends System
+- Realtime User Status
+- Firebase Backend Integration
+
+---
+
+# 🚀 Installation
+
+## Clone Repository
 
 ```bash
-lib/
-assets/
-android/
-ios/
-screenshots/
+git clone https://github.com/Imbadshahkhann/jin-walkie.git
