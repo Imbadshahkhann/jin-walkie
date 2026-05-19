@@ -1,140 +1,81 @@
 # 🚀 Jin Walkie
 
-<p align="center">
-  <img src="./screenshots/home.jpg" width="250"/>
-</p>
+> Secure futuristic realtime communication network built with Flutter & Firebase.
 
-<h3 align="center">
-Secure Futuristic Realtime Communication Network
-</h3>
+---
+
+# 📱 App Preview
+
+## 🔐 Login Screen
+
+<img width="720" height="1600" alt="login" src="https://github.com/user-attachments/assets/279086c0-1272-4831-bc9d-d9110e2687d0" />
+
+---
+
+## 🏠 Home Screen
+
+<img width="720" height="1600" alt="home" src="https://github.com/user-attachments/assets/cef96abc-5db0-40bf-bfeb-54b85832169a" />
+
+---
+
+## 👥 Friends Screen
+
+<img width="720" height="1600" alt="friends" src="https://github.com/user-attachments/assets/9746872c-80dd-4bc6-8b87-8fc43cf317cc" />
+
+---
+
+## 🌍 Global Radio Talk
+
+<img width="720" height="1600" alt="group-talk" src="https://github.com/user-attachments/assets/ccea75b2-752e-4540-8e04-ca5013e2a7dc" />
+
+---
+
+## 🎙️ One-to-One Radio Talk
+
+<img width="720" height="1600" alt="one-one" src="https://github.com/user-attachments/assets/fcebc124-12c2-4fb3-ba3b-cead6dd00702" />
+
+---
+
+## ❌ Remove Friend Feature
+
+<img width="1080" height="2400" alt="remove" src="https://github.com/user-attachments/assets/c4c11eff-4fa9-4f7a-b1b3-8aeafc39d8ed" />
 
 ---
 
 # ✨ Features
 
-✅ Realtime Walkie Talkie Communication  
-✅ One to One Private Voice Talk  
-✅ Global Radio Channel  
-✅ Friends System  
-✅ Friend Requests  
-✅ Realtime Online/Offline Status  
-✅ Firebase Authentication  
-✅ Beautiful Modern UI  
-✅ Firebase Realtime Database  
-✅ Voice Communication System  
-✅ Remove Friends Feature  
-
----
-
-# 📱 Screenshots
-
----
-
-# 🔐 Login Screen
-
-<p align="center">
-  <img src="./screenshots/login.jpg" width="250"/>
-</p>
-
----
-
-# 🏠 Home Screen
-
-<p align="center">
-  <img src="./screenshots/home.jpg" width="250"/>
-</p>
-
----
-
-# 👥 Friends Screen
-
-<p align="center">
-  <img src="./screenshots/friends.jpg" width="250"/>
-</p>
-
----
-
-# 🌍 Global Radio Talk
-
-<p align="center">
-  <img src="./screenshots/group-talk.jpg" width="250"/>
-</p>
-
----
-
-# 🎙️ One to One Voice Talk
-
-<p align="center">
-  <img src="./screenshots/one-one.jpg" width="250"/>
-</p>
-
----
-
-# ❌ Remove Friend Feature
-
-<p align="center">
-  <img src="./screenshots/remove.jpg" width="250"/>
-</p>
+- 🔥 Firebase Authentication
+- 🌍 Global Radio Communication
+- 🎙️ Realtime One-to-One Voice Talk
+- 👥 Friends System
+- 📡 Online/Offline Status
+- ⚡ Beautiful Modern UI
+- 🔐 Secure Communication
+- ☁️ Firebase Realtime Database
+- 👥 Friend Request System
+- ❌ Remove Friend Feature
+- 🌐 Global Voice Channel
+- 📱 Responsive UI Design
 
 ---
 
 # 🛠️ Tech Stack
 
 - Flutter
+- Firebase
 - Dart
 - Firebase Authentication
-- Cloud Firestore
 - Firebase Realtime Database
-- ZEGOCLOUD Voice SDK
+- Firebase Firestore
+- Provider State Management
 
 ---
 
-# 🔥 Project Highlights
+# 📂 Project Structure
 
-✔ Modern futuristic UI  
-✔ Realtime communication system  
-✔ Push-to-talk functionality  
-✔ Firebase integration  
-✔ Group radio communication  
-✔ Secure authentication system  
-✔ Futuristic dark theme design  
-
----
-
-# 👨‍💻 Developed By
-
-## Badshah Khan
-
-Cybersecurity & Flutter Developer
-
----
-
-# 🤝 Project Partner
-
-This project was built with the support and collaboration of my friend and partner:
-
-## Musharraf Khan 🚀
-
-Special thanks for helping in development, testing, and completing the Jin Walkie project.
-
----
-
-# ⭐ GitHub Repository
-
-If you like this project, give it a ⭐ on GitHub.
-
----
-
-# 📌 Future Improvements
-
-- Voice encryption
-- Video communication
-- AI voice assistant
-- Live notifications
-- End-to-end encryption
-
----
-
-# 📜 License
-
-This project is for learning and educational purposes.
+```bash
+lib/
+assets/
+android/
+ios/
+screenshots/
