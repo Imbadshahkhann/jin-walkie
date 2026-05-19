@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965131925809",
+    "project_id": "jin-walkie",
+    "storage_bucket": "jin-walkie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965131925809:android:97247b5f334fd7d7a31810",
+        "android_client_info": {
+          "package_name": "com.example.jin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVakYr2mGYCmU6RI_DZtOdPTxAX9T1ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
