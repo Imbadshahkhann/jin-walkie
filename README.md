@@ -1,7 +1,7 @@
 # 🚀 Jin Walkie
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="250"/>
+  <img src="./screenshots/home.jpg" width="250"/>
 </p>
 
 <h3 align="center">
@@ -20,7 +20,7 @@ Secure Futuristic Realtime Communication Network
 ✅ Realtime Online/Offline Status  
 ✅ Firebase Authentication  
 ✅ Beautiful Modern UI  
-✅ Realtime Firebase Database  
+✅ Firebase Realtime Database  
 ✅ Voice Communication System  
 ✅ Remove Friends Feature  
 
@@ -30,50 +30,50 @@ Secure Futuristic Realtime Communication Network
 
 ---
 
-## 🔐 Login Screen
+# 🔐 Login Screen
 
 <p align="center">
-  <img src="screenshots/login.jpg" width="250"/>
+  <img src="./screenshots/login.jpg" width="250"/>
 </p>
 
 ---
 
-## 🏠 Home Screen
+# 🏠 Home Screen
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="250"/>
+  <img src="./screenshots/home.jpg" width="250"/>
 </p>
 
 ---
 
-## 👥 Friends Screen
+# 👥 Friends Screen
 
 <p align="center">
-  <img src="screenshots/friends.jpg" width="250"/>
+  <img src="./screenshots/friends.jpg" width="250"/>
 </p>
 
 ---
 
-## 🌍 Global Radio Talk
+# 🌍 Global Radio Talk
 
 <p align="center">
-  <img src="screenshots/group-talk.jpg" width="250"/>
+  <img src="./screenshots/group-talk.jpg" width="250"/>
 </p>
 
 ---
 
-## 🎙️ One to One Voice Talk
+# 🎙️ One to One Voice Talk
 
 <p align="center">
-  <img src="screenshots/one-one.jpg" width="250"/>
+  <img src="./screenshots/one-one.jpg" width="250"/>
 </p>
 
 ---
 
-## ❌ Remove Friend Feature
+# ❌ Remove Friend Feature
 
 <p align="center">
-  <img src="screenshots/remove.jpg" width="250"/>
+  <img src="./screenshots/remove.jpg" width="250"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@ Secure Futuristic Realtime Communication Network
 - Dart
 - Firebase Authentication
 - Cloud Firestore
-- Realtime Database
+- Firebase Realtime Database
 - ZEGOCLOUD Voice SDK
 
 ---
@@ -97,6 +97,7 @@ Secure Futuristic Realtime Communication Network
 ✔ Firebase integration  
 ✔ Group radio communication  
 ✔ Secure authentication system  
+✔ Futuristic dark theme design  
 
 ---
 
@@ -108,9 +109,13 @@ Cybersecurity & Flutter Developer
 
 ---
 
-# 🤝 Special Thanks
+# 🤝 Project Partner
 
-Special thanks to **Musharraf Khan** for helping in completing this project 🚀
+This project was built with the support and collaboration of my friend and partner:
+
+## Musharraf Khan 🚀
+
+Special thanks for helping in development, testing, and completing the Jin Walkie project.
 
 ---
 
