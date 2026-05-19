@@ -98,3 +98,33 @@ This project includes:
 
 ```bash
 git clone https://github.com/Imbadshahkhann/jin-walkie.git
+
+
+PASTE THIS 👇
+
+```md id="jlwm239"
+---
+
+# 👨‍💻 Developed By
+
+## Badshah Khan
+
+Cybersecurity Enthusiast & Flutter Developer
+
+Focused on:
+- Cybersecurity
+- Flutter Development
+- Realtime Communication Systems
+- Firebase Applications
+
+---
+
+# 🤝 Project Partner
+
+## Musharraf Khan
+
+Special thanks to Musharraf Khan for helping, supporting, testing, and contributing ideas during the development of Jin Walkie 🚀
+
+His support and collaboration played an important role in completing this realtime communication project.
+
+# ⭐ Support
